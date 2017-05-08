@@ -10,19 +10,22 @@ body{
   text-align: center;
 }
 
+/* Backgrounds section Como puedo Ayudar */
 .backgroundRosa{
   background-color: #F68686;
+  text-align: center;
+  color: white;
 }
 
 .backgroundAzul{
   background-color: #3FC1C9;
+  text-align: center;
+  color: white;
 }
 
 .backgroundAmarillo{
   background-color: #FCE38A;
-}
-
-
-.whitext{
+  text-align: center;
   color: white;
 }
+S

@@ -1,0 +1,28 @@
+body{
+  padding-top: 50px;
+}
+.info {
+  text-align: center;
+  font-size: 21px;
+}
+
+.centrar{
+  text-align: center;
+}
+
+.backgroundRosa{
+  background-color: #F68686;
+}
+
+.backgroundAzul{
+  background-color: #3FC1C9;
+}
+
+.backgroundAmarillo{
+  background-color: #FCE38A;
+}
+
+
+.whitext{
+  color: white;
+}
